@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+    background-image: url(https://wallpaperaccess.com/full/4102287.jpg);
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: blanchedalmond;
+}
+
+p1 {
+    color: blanchedalmond;
+}
+
+h2 {
+    color: red;
+}
+
+ul {
+    color: red;
+}
+
+li {
+    color: blanchedalmond;
+}
+
+a {
+    color: red;
+}
+
+span {
+    color: green;
+}
+
+audio {
+    font-size: clamp(12px, 4vw, 24px);
+}
+
+footer {
+    color: beige;
+}
